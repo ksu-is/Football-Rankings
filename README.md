@@ -28,6 +28,9 @@ https://github.com/meysubb/NCAAF_Scraper
 https://github.com/lebebr01/cfbFootball
 
 
+Sprint 1 Roadmap - 
+
+
 - [ ] 11/8 - Finds additional code respositories with additional examples of what might work for our project
 - [ ] 11/11 - Finalize decisions on structure of the program and what ideas to compile 
 - [ ] 11/14 - Test the respositories finalized/troubleshoot
