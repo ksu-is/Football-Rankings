@@ -16,4 +16,10 @@ create_ind_stats.py
 
 This script requires Python, as well as the urllib2 and BeautifulSoup libraries.
 
+# Examples
+
+https://github.com/meysubb/NCAAF_Scraper
+
+https://github.com/lebebr01/cfbFootball
+
 
