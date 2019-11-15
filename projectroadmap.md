@@ -3,13 +3,13 @@ Football-Rankings Project Roadmap
 
 
 
-1. [x] 11/8 - Finds additional code repositories with additional examples of what might work for our project
+1.[x] 11/8 - Finds additional code repositories with additional examples of what might work for our project
 
-2. [x] 11/11 - Finalize decisions on structure of the program and what ideas to compile 
+2.[x] 11/11 - Finalize decisions on structure of the program and what ideas to compile 
 
-3. [x] 11/15 - Jacob: Test Betting.py, Conference.py, Constants.py, Dates.py and Game.py and deposit the files
+3.[x] 11/15 - Jacob: Test Betting.py, Conference.py, Constants.py, Dates.py and Game.py and deposit the files
 
-4. [ ] 11/15 - JT: 
+4.[ ] 11/15 - JT: 
 
 5. [ ] 11/17 - JT: Integrate files and ensure they all work together as intended. This would include making sure the programs complete 
 scraping the current football rankings. 
