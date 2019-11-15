@@ -3,7 +3,8 @@
 
 
 
-1.  [x] 11/8 - Finds additional code repositories with additional examples of what might work for our project
+1.  
+[x] 11/8 - Finds additional code repositories with additional examples of what might work for our project
 
 2.[x] 11/11 - Finalize decisions on structure of the program and what ideas to compile 
 
