@@ -3,8 +3,7 @@
 
 
 
-1.  
-[x] 11/8 - Finds additional code repositories with additional examples of what might work for our project
+1.[x] 11/8 - Finds additional code repositories with additional examples of what might work for our project
 
 2.[x] 11/11 - Finalize decisions on structure of the program and what ideas to compile 
 
@@ -12,16 +11,16 @@
 
 4.[ ] 11/15 - JT: 
 
-5. [ ] 11/17 - JT: Integrate files and ensure they all work together as intended. This would include making sure the programs complete 
+5.[ ] 11/17 - JT: Integrate files and ensure they all work together as intended. This would include making sure the programs complete 
 scraping the current football rankings. 
 
-6. [ ] 11/19 - JT: Research potential open-source programs on GitHub that could take the rankings out of their file and put them in an excel file. Collect possible 
+6.[ ] 11/19 - JT: Research potential open-source programs on GitHub that could take the rankings out of their file and put them in an excel file. Collect possible 
 
-7. [ ] 11/19 - Jacob: Research potential open-source programs on GitHub that could take the rankings out of either their file or the excel sheet and run statistics on them. For example, this could be a program that takes the stats of each team and projects the best/worst match ups coming up. 
+7.[ ] 11/19 - Jacob: Research potential open-source programs on GitHub that could take the rankings out of either their file or the excel sheet and run statistics on them. For example, this could be a program that takes the stats of each team and projects the best/worst match ups coming up. 
 
-8. [ ] 11/22 - Jacob: Test the new code found and have a meeting with JT to decide the best course of action with the found code. 
+8.[ ] 11/22 - Jacob: Test the new code found and have a meeting with JT to decide the best course of action with the found code. 
 
-9. [ ] 11/22 - JT: Test the code to bring the rankings file into an excel spreadsheet and meet with Jacob to decide the best course of action with the found code. 
+9.[ ] 11/22 - JT: Test the code to bring the rankings file into an excel spreadsheet and meet with Jacob to decide the best course of action with the found code. 
 
 10.[ ] 11/24(Break) - Jacob: Integrate new code found with original rankings code and make adjustments to our particular goals. Also, explore new possiblities.  
 
