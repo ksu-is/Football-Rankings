@@ -1,0 +1,4 @@
+- [x] 11/8 - Finds additional code repositories with additional examples of what might work for our project
+- [x] 11/11 - Finalize decisions on structure of the program and what ideas to compile 
+- [x] 11/15 - Jacob: Test Betting.py, Conference.py, Constants.py, Dates.py and Game.py
+- [ ] 11/15 - 
