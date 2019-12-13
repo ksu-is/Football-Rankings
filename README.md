@@ -31,9 +31,9 @@ https://github.com/lebebr01/cfbFootball
 Sprint 1 Roadmap - 
 
 
-- [ ] 11/8 - Finds additional code repositories with additional examples of what might work for our project
-- [ ] 11/11 - Finalize decisions on structure of the program and what ideas to compile 
-- [ ] 11/14 - Test the repositories finalized/troubleshoot
-- [ ] 11/17 - Compile code/begin troubleshooting
+- [x] 11/8 - Finds additional code repositories with additional examples of what might work for our project
+- [x] 11/11 - Finalize decisions on structure of the program and what ideas to compile 
+- [x] 11/14 - Test the repositories finalized/troubleshoot
+- [x] 11/17 - Compile code/begin troubleshooting
 
 
